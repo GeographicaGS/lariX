@@ -1,4 +1,4 @@
-# PyXMLprettify
+# lariX
 Prettify an XML file with Python (CLI). 
 Useful for really large XML files.
 
